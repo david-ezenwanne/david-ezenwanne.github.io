@@ -260,19 +260,7 @@ transition: transform 0.3s, background-color 0.3s;
 			letter-spacing:6px;
 		}
 
-		#more-projects{
-		  color:rgb(240,240,240);
-		  letter-spacing:0.3rem;
-		  text-shadow:0.02rem 0.02rem 0.02rem hsl(180,100%,25.1%);
-		  font-weight:bold;
-
-		}
-
-		#projects-github-link{
-			
-			color:white;
-
-		}
+	
 
 		#certificates-section{
 			background-color: rgb(230,230,230)
@@ -373,7 +361,7 @@ transition: transform 0.3s, background-color 0.3s;
 
 main{
 	display:grid;
-	grid-template-rows:250vh 200vh 150vh 250vh auto;
+	grid-template-rows:250vh 185vh 150vh 200vh auto;
 	
 }
 
