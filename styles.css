@@ -361,7 +361,7 @@ transition: transform 0.3s, background-color 0.3s;
 
 main{
 	display:grid;
-	grid-template-rows:250vh 185vh 150vh 200vh auto;
+	grid-template-rows:270vh 185vh 150vh 200vh auto;
 	
 }
 
